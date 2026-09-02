@@ -1,3 +1,5 @@
+package Array_1D;
+
 //Peak Element: An element that is greater than its immediate neighboring
 // elements. If there are multiple peaks, you can return any one of them.
 public class PeakElement {
