@@ -1,7 +1,6 @@
-package Array_1D;
-
 //Peak Element: An element that is greater than its immediate neighboring
 // elements. If there are multiple peaks, you can return any one of them.
+package Array1D;
 public class PeakElement {
 
     static void main(String[] args) {
@@ -23,7 +22,7 @@ public class PeakElement {
                     peak = arr[i];
                 }
             }
-            System.out.println(peak);
+            System.out.println("Peak Element of array: "+peak);
 
 
         }
