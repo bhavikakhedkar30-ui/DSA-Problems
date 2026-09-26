@@ -1,10 +1,12 @@
-   public class Sort {
+package GFG_LEETCODE.Array1D;
+
+public class Sort {
 
         public static void main(String[] args) {
 
             int[] arr = {5, 2, 8, 1, 3};
 
-            // Bubble Sort
+            // Bubble GFG_LEETCODE.Array1D.Sort
             for (int i = 0; i < arr.length - 1; i++) {
 
                 for (int j = 0; j < arr.length - 1 - i; j++) {

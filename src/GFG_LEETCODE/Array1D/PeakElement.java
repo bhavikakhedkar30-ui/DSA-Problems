@@ -1,6 +1,6 @@
 //Peak Element: An element that is greater than its immediate neighboring
 // elements. If there are multiple peaks, you can return any one of them.
-package Array1D;
+package GFG_LEETCODE.Array1D;
 public class PeakElement {
 
     static void main(String[] args) {

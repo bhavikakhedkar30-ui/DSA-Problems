@@ -1,4 +1,4 @@
-package Array1D;
+package GFG_LEETCODE.Array1D;
 
 public class MaxAndMin {
     static void main(String[] args) {

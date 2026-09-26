@@ -1,6 +1,4 @@
-package Array1D;
-
-import java.util.Arrays;
+package GFG_LEETCODE.Array1D;
 
 public class ReverseArray {
     public static void main(String[] args) {
